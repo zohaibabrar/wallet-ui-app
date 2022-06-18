@@ -1,4 +1,7 @@
-# wallet_ui
+# wallet UI App
+
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/75172691/174450153-a1f1144b-5206-4aa2-ba1c-5980e2b1bbd6.gif)
 
 A new Flutter project.
 
